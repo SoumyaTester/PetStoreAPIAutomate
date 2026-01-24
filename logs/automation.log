@@ -1,0 +1,9 @@
+11:13:39.270 [main] INFO  api.test.TestUser - **********Post testcase started*******************
+11:13:51.355 [main] INFO  api.test.TestUser - **********Post testcase ended*******************
+11:13:51.442 [main] INFO  api.test.TestUser - **********Get testcase started*******************
+11:13:53.275 [main] INFO  api.test.TestUser - **********Get testcase ended*******************
+11:13:53.338 [main] INFO  api.test.TestUser - **********Put testcase started*******************
+11:13:56.452 [main] INFO  api.test.TestUser - **********Put testcase ended*******************
+11:13:56.478 [main] INFO  api.test.TestUser - **********Delete testcase started*******************
+11:13:59.163 [main] INFO  api.test.TestUser - **********Delete testcase ended*******************
+
