@@ -1,11 +1,9 @@
 package api.endpoints;
-import api.payload.User;
-import static io.restassured.RestAssured.*;
-import static io.restassured.matcher.RestAssuredMatchers.*;
-import static org.hamcrest.Matchers.*;
+import static io.restassured.RestAssured.given;
 
 import java.util.ResourceBundle;
 
+import api.payload.User;
 import io.restassured.response.Response;
 
 //here we created this class to implement only CURD methods
